@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @killua-24
+- 👋 Hi, I’m Nishchay.
 - 👀 I’m interested in Web Development & Web Designing. 
 - 🌱 I’m currently learning Three.js
 - 💞️ I’m looking to collaborate on React.js Projects.
